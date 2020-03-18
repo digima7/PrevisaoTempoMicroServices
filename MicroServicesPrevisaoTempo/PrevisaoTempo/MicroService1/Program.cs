@@ -9,6 +9,7 @@ namespace MicroService1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine($"Configurando");
             var messagingConfig = new MessagingConfiguration 
             { 
                 Host = Environment.GetEnvironmentVariable("MESSAGING_HOST") ?? "localhost",
@@ -45,6 +46,7 @@ namespace MicroService1
             {
                 nancyHost.Start();
                 Console.WriteLine("Nancy now listening - navigating to http://localhost:8000/. Press enter to stop");
+                Console.WriteLine("Tudo certo, você ja pode mandar as solicitações para a API conforme descrito no README.");
                 Console.ReadKey();
             }
             Console.WriteLine("Stopped. Good bye!");

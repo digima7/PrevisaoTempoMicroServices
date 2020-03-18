@@ -7,6 +7,14 @@ Aplicação possui dois micro serviços sendo o primeiro que ira Expor uma API p
 Os dois micro serviços foram feitos em console, pois não havia necessidade de tela.
 Foi criado uma biblioteca "MicroServiceBase" para poder fazer toda a parte de mensageria, publicando e consumindo registros do Rabbit.
 
+Utilizar RabbitMQ como Message broker. 
+  - Dependencia do RabbitMQ erlang = Link para download: https://www.erlang.org/downloads
+  - Link para download do RabbitMQ: https://www.rabbitmq.com/install-windows.html#installer versão 3.8.3      
+  - Para liberar o management do Rabbit pode ser necessário ativar o plugin, pra isso basta acessar a pasta onde foi instalado o rabbit ("C:\Program Files\RabbitMQ Server\rabbitmq_server-3.8.3\sbin>"), pelo cmd e executar o comando "rabbitmq-plugins enable rabbitmq_management"
+  - para visualizar o management do Rabbit basta acessar o link "http://localhost:15672/".
+    - Usuario : guest
+    - senha   : guest
+
 ### Tecnologias
   - C#, .NET Core 3.1
   - EntityFramework

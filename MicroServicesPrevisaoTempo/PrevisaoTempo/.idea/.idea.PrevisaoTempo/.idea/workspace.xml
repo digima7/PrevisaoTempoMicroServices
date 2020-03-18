@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5e2a43a-86ea-41b1-b5be-d7f18ee2ed1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MicroService2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/d5/513d4d8b/NancyBootstrapperBase`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8AE63D8C-5294-4718-A734-5B9BFB1B63BC/4a/50eca11e/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/0b/2f8b2edc/TinyIoCContainer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8AE63D8C-5294-4718-A734-5B9BFB1B63BC/60/69d5a1d5/TaskAwaiter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/33D6A20E-81ED-4622-9812-8D7F57C01DFB/08/2368376b/Uri.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F9167F68-5EDE-4728-A53F-9605225F9DD6/15/NpgsqlConnection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84B7B3EE-786E-4D35-A66A-A915D02B767E/ff/4791aa03/EventingBasicConsumer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E6FD432-8FF5-4D50-A87C-10C9EE6CD54A/0c/ef88c7f7/NancyHost.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/f0/5fd4d59a/NancyBootstrapperLocator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8AE63D8C-5294-4718-A734-5B9BFB1B63BC/52/2377087e/Void.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8AE63D8C-5294-4718-A734-5B9BFB1B63BC/bb/ea0c9419/Environment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E6FD432-8FF5-4D50-A87C-10C9EE6CD54A/57/475b8ee7/HostConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84B7B3EE-786E-4D35-A66A-A915D02B767E/44/52d69774/ConnectionFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84B7B3EE-786E-4D35-A66A-A915D02B767E/c2/d5dae635/ConnectionFactoryBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/78/acd04996/DefaultNancyBootstrapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84B7B3EE-786E-4D35-A66A-A915D02B767E/ec/ab724337/IModelExensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/a7/e992b6de/NamedParameterOverloads.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/b5/e66e1bc8/JsonResponse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84B7B3EE-786E-4D35-A66A-A915D02B767E/a4/24dbea0b/IModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/2d/b3b74bfa/ResolveOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/d8/c8bd5958/HttpStatusCode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroServiceBase/Communication/MessagingConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/DatabaseConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroServiceBase/Communication/MessageConsumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/WeatherDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroServiceBase/Communication/Messaging.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/CityWeather.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService2/OpenWeatherService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D21639A2-A4EC-4A70-A6C4-FC2CC27B0D45/8c/2b8660d9/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/WeatherModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroServiceBase/Model/WeatherRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/City.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroServiceBase/Model/WeatherReport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/WeatherUpdateService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/IWeatherUpdateService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/WeatherController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/3e/bb9ef623/NancyBootstrapperWithRequestContainerBase`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/IWeatherController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService2/IWeatherService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroServiceBase/Communication/IMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE7E8BC6-7D09-4387-BCD9-21B841D656A0/a6/88293d22/WebClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/09886938-0591-442D-862A-AE13BF7BE0ED/a2/6cfc3b5c/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3D477F25-37E4-4CC1-9956-60B75D3620C2/A/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BC11AE4F-41FA-400D-A7C9-48F4FC75ECC5/C8/QueryingEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3D477F25-37E4-4CC1-9956-60B75D3620C2/17A/DatabaseFacade.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BC11AE4F-41FA-400D-A7C9-48F4FC75ECC5/4A/RelationalDatabaseCreator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/DatabaseContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BC11AE4F-41FA-400D-A7C9-48F4FC75ECC5/10F/MigrationsModelDiffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7B7AA88A-95D5-4AA7-86BA-DA86EDD4821A/14/SqliteMigrationsSqlGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EF15AA7-B118-492F-8DD7-154976185B29/e6/e3445af9/Response.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService2/WeatherConsumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroService1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B22B0A9-FBA9-4B91-A027-1BAEDBDF1DA1/bb/bbdeb391/DbConnectionStringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MicroServiceBase/Class1.cs" />
+        <option value="$PROJECT_DIR$/MicroServiceBase/messaging/MessageConsumer.cs" />
+        <option value="$PROJECT_DIR$/MicroServiceBase/messaging/Messaging.cs" />
+        <option value="$PROJECT_DIR$/MicroServiceBase/Communication/MessageConsumer.cs" />
+        <option value="$PROJECT_DIR$/MicroServiceBase/Model/WeatherRequest.cs" />
+        <option value="$PROJECT_DIR$/MicroServiceBase/Communication/Messaging.cs" />
+        <option value="$PROJECT_DIR$/MicroServiceBase/Model/WeatherReport.cs" />
+        <option value="$PROJECT_DIR$/MicroService2/OpenWeatherService.cs" />
+        <option value="$PROJECT_DIR$/MicroService1/WeatherModule.cs" />
+        <option value="$PROJECT_DIR$/MicroService1/WeatherAPIController.cs" />
+        <option value="$PROJECT_DIR$/MicroService1/CityWeather.cs" />
+        <option value="$PROJECT_DIR$/MicroService1/WeatherUpdateService.cs" />
+        <option value="$PROJECT_DIR$/MicroService1/Dockerfile" />
+        <option value="$PROJECT_DIR$/MicroService2/Program.cs" />
+        <option value="$PROJECT_DIR$/MicroService2/Dockerfile" />
+        <option value="$PROJECT_DIR$/MicroService1/WeatherDatabase.cs" />
+        <option value="$PROJECT_DIR$/MicroService1/DatabaseContext.cs" />
+        <option value="$PROJECT_DIR$/MicroService1/WeatherController.cs" />
+        <option value="$PROJECT_DIR$/MicroService1/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGrCZMhV49ZRKsKxjcbyi3AJZE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected=".NET Project.MicroService1">
+    <configuration name="MicroService1" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MicroService1/MicroService1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroService2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MicroService2/MicroService2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.MicroService1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5e2a43a-86ea-41b1-b5be-d7f18ee2ed1d" name="Default Changelist" comment="" />
+      <created>1584476145215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584476145215</updated>
+      <workItem from="1584476149426" duration="208000" />
+      <workItem from="1584476417563" duration="1500000" />
+      <workItem from="1584477936521" duration="21688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="222" width="744" height="664" key="#MicroService1" timestamp="1584498657472">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="583" y="222" width="744" height="664" key="#MicroService1/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584498657472" />
+    <state x="671" y="222" width="930" height="757" key="#xdebugger.evaluate" timestamp="1584482129289">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="671" y="222" width="930" height="757" key="#xdebugger.evaluate/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584482129289" />
+    <state width="814" height="646" key="DebuggerActiveHint" timestamp="1584496775649">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="814" height="646" key="DebuggerActiveHint/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584496775649" />
+    <state x="692" y="278" width="515" height="552" key="EnvironmentVariablesDialog" timestamp="1584498656476">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="692" y="278" width="515" height="552" key="EnvironmentVariablesDialog/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584498656476" />
+    <state x="2663" y="312" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584476460986">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="312" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1584476460986" />
+    <state width="1920" height="349" key="GridCell.Tab.0.bottom" timestamp="1584499102153">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102153" />
+    <state width="1920" height="294" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1584477916867" />
+    <state width="1920" height="349" key="GridCell.Tab.0.center" timestamp="1584499102153">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102153" />
+    <state width="1920" height="294" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1584477916866" />
+    <state width="1920" height="349" key="GridCell.Tab.0.left" timestamp="1584499102153">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102153" />
+    <state width="1920" height="294" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1584477916866" />
+    <state width="1920" height="349" key="GridCell.Tab.0.right" timestamp="1584499102153">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102153" />
+    <state width="1920" height="294" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1584477916866" />
+    <state width="1920" height="349" key="GridCell.Tab.1.bottom" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.1.center" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.1.center/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.1.left" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.1.left/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.1.right" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.1.right/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.2.bottom" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.2.bottom/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.2.center" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.2.center/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.2.left" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.2.left/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.2.right" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.2.right/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.3.bottom" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.3.bottom/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.3.center" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.3.center/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.3.left" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.3.left/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.3.right" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.3.right/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.4.bottom" timestamp="1584499102155">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.4.bottom/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102155" />
+    <state width="1920" height="349" key="GridCell.Tab.4.center" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.4.center/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.4.left" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.4.left/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state width="1920" height="349" key="GridCell.Tab.4.right" timestamp="1584499102154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="349" key="GridCell.Tab.4.right/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584499102154" />
+    <state x="555" y="289" width="800" height="530" key="Rider.ProjectTemplateDialog.Size" timestamp="1584485264322">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="555" y="289" width="800" height="530" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584485264322" />
+    <state x="810" y="166" width="710" height="775" key="RiderGenerateDialog" timestamp="1584489817135">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="810" y="166" width="710" height="775" key="RiderGenerateDialog/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584489817135" />
+    <state x="449" y="198" key="SettingsEditor" timestamp="1584483108893">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="449" y="198" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584483108893" />
+    <state x="2369" y="175" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1584477913270" />
+    <state width="960" height="526" key="XDebugger.FullValuePopup" timestamp="1584491905808">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="960" height="526" key="XDebugger.FullValuePopup/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584491905808" />
+    <state x="606" y="123" width="718" height="861" key="find.popup" timestamp="1584498496802">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="606" y="123" width="718" height="861" key="find.popup/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584498496802" />
+    <state x="624" y="275" width="672" height="660" key="run.anything.popup" timestamp="1584487752921">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="624" y="275" width="672" height="660" key="run.anything.popup/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1584487752921" />
+    <state x="2544" y="254" width="672" height="677" key="run.anything.popup/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1584476854738" />
+    <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1584476579033">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1584476579033" />
+  </component>
+</project>

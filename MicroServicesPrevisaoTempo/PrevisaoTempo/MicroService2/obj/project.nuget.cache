@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPMa9cCu00sNisYYouueDsOr9oP6f3gLMvoQ4iEok89m8FibkoDEQJXS81OjQNDjW+PxU9Vt5Scd8tJebrs5Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ariel.petters\\Desktop\\projeto_ariel\\MicroServicesPrevisaoTempo\\PrevisaoTempo\\MicroService2\\MicroService2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariel.petters\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

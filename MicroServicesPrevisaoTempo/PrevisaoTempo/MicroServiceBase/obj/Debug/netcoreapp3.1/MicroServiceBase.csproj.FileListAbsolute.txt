@@ -1,0 +1,16 @@
+/data/personal/projects/ariel/Ariel/MicroServicesPrevisaoTempo/PrevisaoTempo/MicroServiceBase/bin/Debug/netcoreapp3.1/MicroServiceBase.dll
+/data/personal/projects/ariel/Ariel/MicroServicesPrevisaoTempo/PrevisaoTempo/MicroServiceBase/bin/Debug/netcoreapp3.1/MicroServiceBase.pdb
+/data/personal/projects/ariel/Ariel/MicroServicesPrevisaoTempo/PrevisaoTempo/MicroServiceBase/obj/Debug/netcoreapp3.1/MicroServiceBase.csprojAssemblyReference.cache
+/data/personal/projects/ariel/Ariel/MicroServicesPrevisaoTempo/PrevisaoTempo/MicroServiceBase/obj/Debug/netcoreapp3.1/MicroServiceBase.AssemblyInfoInputs.cache
+/data/personal/projects/ariel/Ariel/MicroServicesPrevisaoTempo/PrevisaoTempo/MicroServiceBase/obj/Debug/netcoreapp3.1/MicroServiceBase.AssemblyInfo.cs
+/data/personal/projects/ariel/Ariel/MicroServicesPrevisaoTempo/PrevisaoTempo/MicroServiceBase/obj/Debug/netcoreapp3.1/MicroServiceBase.dll
+/data/personal/projects/ariel/Ariel/MicroServicesPrevisaoTempo/PrevisaoTempo/MicroServiceBase/obj/Debug/netcoreapp3.1/MicroServiceBase.pdb
+C:\Users\ariel.petters\Desktop\projeto_ariel\MicroServicesPrevisaoTempo\PrevisaoTempo\MicroServiceBase\bin\Debug\netcoreapp3.1\MicroServiceBase.deps.json
+C:\Users\ariel.petters\Desktop\projeto_ariel\MicroServicesPrevisaoTempo\PrevisaoTempo\MicroServiceBase\bin\Debug\netcoreapp3.1\MicroServiceBase.dll
+C:\Users\ariel.petters\Desktop\projeto_ariel\MicroServicesPrevisaoTempo\PrevisaoTempo\MicroServiceBase\bin\Debug\netcoreapp3.1\MicroServiceBase.pdb
+C:\Users\ariel.petters\Desktop\projeto_ariel\MicroServicesPrevisaoTempo\PrevisaoTempo\MicroServiceBase\obj\Debug\netcoreapp3.1\MicroServiceBase.csprojAssemblyReference.cache
+C:\Users\ariel.petters\Desktop\projeto_ariel\MicroServicesPrevisaoTempo\PrevisaoTempo\MicroServiceBase\obj\Debug\netcoreapp3.1\MicroServiceBase.csproj.CoreCompileInputs.cache
+C:\Users\ariel.petters\Desktop\projeto_ariel\MicroServicesPrevisaoTempo\PrevisaoTempo\MicroServiceBase\obj\Debug\netcoreapp3.1\MicroServiceBase.AssemblyInfoInputs.cache
+C:\Users\ariel.petters\Desktop\projeto_ariel\MicroServicesPrevisaoTempo\PrevisaoTempo\MicroServiceBase\obj\Debug\netcoreapp3.1\MicroServiceBase.AssemblyInfo.cs
+C:\Users\ariel.petters\Desktop\projeto_ariel\MicroServicesPrevisaoTempo\PrevisaoTempo\MicroServiceBase\obj\Debug\netcoreapp3.1\MicroServiceBase.dll
+C:\Users\ariel.petters\Desktop\projeto_ariel\MicroServicesPrevisaoTempo\PrevisaoTempo\MicroServiceBase\obj\Debug\netcoreapp3.1\MicroServiceBase.pdb

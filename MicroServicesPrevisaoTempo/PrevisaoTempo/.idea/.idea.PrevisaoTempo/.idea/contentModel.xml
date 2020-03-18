@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_PrevisaoTempo.377902425.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="MicroService1" t="IncludeRecursive">
+        <e p="City.cs" t="Include" />
+        <e p="CityWeather.cs" t="Include" />
+        <e p="DatabaseConfig.cs" t="Include" />
+        <e p="DatabaseContext.cs" t="Include" />
+        <e p="IWeatherController.cs" t="Include" />
+        <e p="IWeatherUpdateService.cs" t="Include" />
+        <e p="MicroService1.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="WeatherController.cs" t="Include" />
+        <e p="WeatherDatabase.cs" t="Include" />
+        <e p="WeatherModule.cs" t="Include" />
+        <e p="WeatherUpdateService.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MicroService1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroService2" t="IncludeRecursive">
+        <e p="IRequester.cs" t="Include" />
+        <e p="IWeatherService.cs" t="Include" />
+        <e p="MicroService2.csproj" t="IncludeRecursive" />
+        <e p="OpenWeatherService.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="WeatherConsumer.cs" t="Include" />
+        <e p="WebClientRequester.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MicroService2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroServiceBase" t="IncludeRecursive">
+        <e p="Communication" t="Include">
+          <e p="IMessage.cs" t="Include" />
+          <e p="MessageConsumer.cs" t="Include" />
+          <e p="Messaging.cs" t="Include" />
+          <e p="MessagingConfiguration.cs" t="Include" />
+        </e>
+        <e p="MicroServiceBase.csproj" t="IncludeRecursive" />
+        <e p="Model" t="Include">
+          <e p="WeatherReport.cs" t="Include" />
+          <e p="WeatherRequest.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MicroServiceBase.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="PrevisaoTempo.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
